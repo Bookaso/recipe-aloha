@@ -8,6 +8,7 @@ const Section_2 = () => {
         font-size: .563em;
         h1{
           font-size:24px;
+          margin:30px 0;
         }
         div{
             margin:13px 0;

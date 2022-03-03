@@ -6,6 +6,9 @@ const Section = () => {
         font-family:'Playfair Display';
         font-weight:700;
         font-size: .563em;
+        h1{
+            font-size:2.7em;
+        }
         div{
             margin:13px 0;
             h3{
